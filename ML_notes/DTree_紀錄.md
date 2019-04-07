@@ -1,6 +1,6 @@
 # 這邊是 玩決策樹時 值得紀錄的要點
 
-## case 1
+## point 1
 
 ### 
 當時我參考這個網站 打算用內建方法看看預測成效
@@ -27,7 +27,7 @@ DT_model.score(predict_X, predict_y)
 ```
 reference:https://stackoverflow.com/questions/32664717/got-continuous-is-not-supported-error-in-randomforestregressor
 ```
-## case 2
+## point 2
 
 xxx
 ```
