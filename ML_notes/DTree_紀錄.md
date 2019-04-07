@@ -27,3 +27,9 @@ DT_model.score(predict_X, predict_y)
 ```
 reference:https://stackoverflow.com/questions/32664717/got-continuous-is-not-supported-error-in-randomforestregressor
 ```
+## case 2
+
+xxx
+```
+~~~~~
+```
