@@ -38,18 +38,18 @@ Kier, L.B., "A Shape Index from Molecular Graphs", Quant. Struct-Act. Relat., 4,
 Kier, L.B., "Indexes of molecular shape from chemical graphs" in Computational Chemical Graph Theory; Rouvray, D.H., Ed.; Nova Science: New York (1990).
 Hall, L.H. and Kier, L.B., "The Molecular Connectivity Chi Indexes and Kappa Shape Indexes in Structure-Property Modeling", in Reviews in Computational Chemistry II., K.B. Lipkowitz and D.B. Boyd, editors, p. 367-422 (1991)(1987)
 ```
-CHI_0_Materials
-CHI_1_Materials
-CHI_2_Materials
-CHI_3_P_Materials
-CHI_3_C_Materials
-CHI_3_CH_Materials
-CHI_V_0_Materials
-CHI_V_1_Materials
-CHI_V_2_Materials
-CHI_V_3_P_Materials
-CHI_V_3_C_Materials
-CHI_V_3_CH_Materials
+- CHI_0_Materials
+- CHI_1_Materials
+- CHI_2_Materials
+- CHI_3_P_Materials
+- CHI_3_C_Materials
+- CHI_3_CH_Materials
+- CHI_V_0_Materials
+- CHI_V_1_Materials
+- CHI_V_2_Materials
+- CHI_V_3_P_Materials
+- CHI_V_3_C_Materials
+- CHI_V_3_CH_Materials
 
 ##  the Electrotopological State keys for the material
 ```
