@@ -14,7 +14,7 @@ Calculates and outputs the counts of hydrogen bond donors and acceptors in the i
 
 
 
-##Balaban, Wiener, and Zagreb Index descriptors
+## Balaban, Wiener, and Zagreb Index descriptors
 
 ```
 The Balaban, Wiener and Zagreb indices are two-dimensional topological descriptors based on graph-theory concepts. They help to differentiate molecules according mostly to their size, degree of branching, flexibility, and overall shape.
@@ -124,12 +124,12 @@ Fractional charged partial areas
 - Jurs_FNSA_2_Materials: Fractional charge-weighted negative surface area: the total charge-weighted negative surface area divided by the total molecular solvent-accessible area (Jurs_PNSA_2_Materials / Jurs_SASA_Materials).
 - Jurs_FNSA_3_Materials: Fractional atomic charge-weighted negative surface area: the atomic charge-weighted negative surface area divided by the total molecular solvent-accessible area (Jurs_PNSA_3_Materials / Jurs_SASA_Materials).
 Surface-weighted partial areas
-- Jurs_WPSA_1_Materials: Surface-weighted partial positive surface area: the product of the partial positive surface area and the total molecular solvent-accessible surface area divided by 1000 (Jurs_PPSA_1_Materials กั Jurs_SASA_Materials / 1000).
-- Jurs_WPSA_2_Materials: Surface-weighted charge-weighted positive surface area: the product of the total charge-weighted positive surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PPSA_2_Materials กั Jurs_SASA_Materials / 1000).
-- Jurs_WPSA_3_Materials: Surface-weighted atomic charge-weighted positive surface area: the product of the atomic charge-weighted positive surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PPSA_3_Materials กั Jurs_SASA_Materials / 1000).
-- Jurs_WNSA_1_Materials: Surface-weighted partial negative surface area: the product of the partial negative surface area and the total molecular solvent-accessible surface area divided by 1000 (Jurs_PNSA_1_Materials กั Jurs_SASA_Materials / 1000).
-- Jurs_WNSA_2_Materials: Surface-weighted charge-weighted negative surface area: the product of the total charge-weighted negative surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PNSA_2_Materials กั Jurs_SASA_Materials / 1000).
-- Jurs_WNSA_3_Materials: Surface-weighted atomic charge-weighted negative surface area: the product of the atomic charge-weighted negative surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PNSA_3_Materials กั Jurs_SASA_Materials / 1000).
+- Jurs_WPSA_1_Materials: Surface-weighted partial positive surface area: the product of the partial positive surface area and the total molecular solvent-accessible surface area divided by 1000 (Jurs_PPSA_1_Materials ยกร‘ Jurs_SASA_Materials / 1000).
+- Jurs_WPSA_2_Materials: Surface-weighted charge-weighted positive surface area: the product of the total charge-weighted positive surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PPSA_2_Materials ยกร‘ Jurs_SASA_Materials / 1000).
+- Jurs_WPSA_3_Materials: Surface-weighted atomic charge-weighted positive surface area: the product of the atomic charge-weighted positive surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PPSA_3_Materials ยกร‘ Jurs_SASA_Materials / 1000).
+- Jurs_WNSA_1_Materials: Surface-weighted partial negative surface area: the product of the partial negative surface area and the total molecular solvent-accessible surface area divided by 1000 (Jurs_PNSA_1_Materials ยกร‘ Jurs_SASA_Materials / 1000).
+- Jurs_WNSA_2_Materials: Surface-weighted charge-weighted negative surface area: the product of the total charge-weighted negative surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PNSA_2_Materials ยกร‘ Jurs_SASA_Materials / 1000).
+- Jurs_WNSA_3_Materials: Surface-weighted atomic charge-weighted negative surface area: the product of the atomic charge-weighted negative surface area and the total molecular solvent-accessible area divided by 1000 (Jurs_PNSA_3_Materials ยกร‘ Jurs_SASA_Materials / 1000).
 Relative charges
 - Jurs_RPCG_Materials: Relative positive charge: the charge of the most positive atom divided by the total positive charge.
 - Jurs_RNCG_Materials: Relative negative charge: the charge of the most negative atom divided by the total negative charge.
