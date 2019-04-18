@@ -1,7 +1,10 @@
+## Molecular Property 
+- Molecular_Weight_Materials
+
 
 ## Molecular Property Counts
-- Molecular_Weight_Materials
-- Molecular_Formula_Materials
+- Num_RotatableBonds_Materials
+- Num_chiral_Centers_Materials
 
 ##  the number of hydrogen acceptors and/or donors
 ### key word: 得失氫 (氧化還原能力)
