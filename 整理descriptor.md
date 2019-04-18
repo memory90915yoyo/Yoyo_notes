@@ -14,7 +14,7 @@ Calculates and outputs the counts of hydrogen bond donors and acceptors in the i
 
 
 
-##Balaban, Wiener, and Zagreb Index descriptors
+## Balaban, Wiener, and Zagreb Index descriptors
 key word: 圖論 大小 分支程度 彈性 形狀
 ```
 The Balaban, Wiener and Zagreb indices are two-dimensional topological descriptors based on graph-theory concepts. They help to differentiate molecules according mostly to their size, degree of branching, flexibility, and overall shape.
